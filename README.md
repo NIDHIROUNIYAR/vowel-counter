@@ -1,1 +1,1 @@
-# vowel-counter
+# ASSIGNMENT: PYTHON FUNDAMENTALS
